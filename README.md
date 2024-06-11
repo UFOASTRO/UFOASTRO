@@ -2,9 +2,9 @@
 - 👀 I’m interested in coding ,gaming ..tiktok 
 - 🌱 I’m currently learning html css phyhon js 
 - 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me ..
+- 📫 How to reach me  gmail:nifemibello13@gmail.com 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: im really young
+- ⚡ Fun fact: im really young 
 - 
 
 <!---
