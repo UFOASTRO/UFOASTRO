@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me  gmail:nifemibello13@gmail.com 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: im really young 
+- 
 - 
 
 <!---
