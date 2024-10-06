@@ -1,6 +1,8 @@
 
 # 🌌Welcome to My GitHub Profile!
 
+==============================================================================================================================================================================
+
 ## 🚀 About Me
 
 Hello! I'm **ASTRO** a passionate Aspiring Fullstack developer with a keen interest in web development, data science, and AI. 
