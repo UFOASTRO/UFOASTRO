@@ -1,13 +1,38 @@
-- 👋 Hi, I’m @UFOASTRO
-- 👀 I’m interested in coding ,gaming ..tiktok 
-- 🌱 I’m currently learning html css phyhon js 
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me  gmail:nifemibello13@gmail.com 
-- 😄 Pronouns: he/him
-- 
-- 
 
-<!---
-UFOASTRO/UFOASTRO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#🌟 Welcome to My GitHub Profile!
+
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![GitHub followers](https://img.shields.io/github/followers/your-github-username?style=social)
+
+## About Me
+
+Hello! I'm **ASTRO** a passionate Aspiring Fullstack developer with a keen interest in web development, data science, and AI. 
+Passionate about MY passions and #️⃣1️⃣GOD 🙏
+
+## 🛠️ My Projects
+
+Here are a few of my favorite projects:
+
+- **[RESTURANT WEBSITE](https://jays-burger-project.vercel.app/)**: A Resturant website fully built and designed by me, including all the logos, BUSINESS NAME, fonts and images sources 
+- **[GAMETROVE](https://gametrove.vercel.app/)**: Game Library Project
+A collaborative project developed for a web development competition, this game library showcases a collection of engaging games designed for web browsers. The project highlights teamwork and creativity, combining our diverse skills to deliver a user-friendly and interactive gaming experience.
+- **[Workingonmyself.com](#)**: The biggest project yet is not a website but my life ☮🕊
+
+## ⚙️ Skills
+
+- **Languages**: Python, JavaScript, HTML/CSS, etc.
+- **Technologies**: React, Node.js, Tailwindcss, etc.
+- **Tools**: Git, VS Code, Figma, Canva etc.
+
+## 📫 Connect with Me
+
+Feel free to reach out:
+- 👨‍💻DISCORD SERVER: [**DEV JOURNEY**](https://discord.gg/d8y5qD4uA2)
+- 🌐 GitHub: [**UFOASTRO**](https://github.com/UFOASTRO)
+## Fun Facts
+
+- I’m fascinated by [technology trends, open-source contributions, Outer Space , Artificial intelligence ].
+- In my free time, I enjoy [Playing games, building webapps , Networking with other devs and makin new friends ].
+- Currently learning [Javascript, tailwindcss]. 📚✨
+
+---
+Thank you 👾
