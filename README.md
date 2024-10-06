@@ -1,12 +1,12 @@
 
 #🌟 Welcome to My GitHub Profile!
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![GitHub followers](https://img.shields.io/github/followers/your-github-username?style=social)
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![GitHub followers](https://img.shields.io/github/followers/ufoastro?style=social)
 
 ## About Me
 
 Hello! I'm **ASTRO** a passionate Aspiring Fullstack developer with a keen interest in web development, data science, and AI. 
-Passionate about MY passions and #️⃣1️⃣GOD 🙏
+Passionate about my passions and #️⃣1️⃣GOD 🙏
 
 ## 🛠️ My Projects
 
@@ -28,10 +28,10 @@ A collaborative project developed for a web development competition, this game l
 Feel free to reach out:
 - 👨‍💻DISCORD SERVER: [**DEV JOURNEY**](https://discord.gg/d8y5qD4uA2)
 - 🌐 GitHub: [**UFOASTRO**](https://github.com/UFOASTRO)
-## Fun Facts
+## 😎Fun Facts
 
 - I’m fascinated by [technology trends, open-source contributions, Outer Space , Artificial intelligence ].
-- In my free time, I enjoy [Playing games, building webapps , Networking with other devs and makin new friends ].
+- In my free time, I enjoy [Playing games, building webapps, Networking with other devs and makin new friends ].
 - Currently learning [Javascript, tailwindcss]. 📚✨
 
 ---
