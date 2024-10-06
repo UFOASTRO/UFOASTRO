@@ -1,8 +1,6 @@
 
 # 🌌Welcome to My GitHub Profile!
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![GitHub followers](https://img.shields.io/github/followers/ufoastro?style=social)
-
 ## 🚀 About Me
 
 Hello! I'm **ASTRO** a passionate Aspiring Fullstack developer with a keen interest in web development, data science, and AI. 
