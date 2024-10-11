@@ -1,13 +1,10 @@
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ASTRO🌠!;" />
-</h1>
 # 🌌Welcome to My GitHub Profile!
 
 
 ## 🚀 About Me
 
-Hello! I'm **ASTRO** a passionate Aspiring Fullstack developer with a keen interest in web development, data science, and AI. 
+Hello! I'm **ASTRO🌠** a passionate Aspiring Fullstack developer with a keen interest in web development, data science, and AI. 
 Passionate about my passions and #️⃣1️⃣GOD 🙏
 
 ## 🛠️ My Projects
