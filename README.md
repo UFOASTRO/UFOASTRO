@@ -18,7 +18,7 @@ A collaborative project developed for a web development competition, this game l
 - **[Workingonmyself.com](#)**: The biggest project yet is not a website but my life ☮🕊
 
 ## ⚙️ Skills
-![Cornmanthe3rd-Plex-Other-python 512](https://github.com/user-attachments/assets/7debd590-a264-4ba1-8365-556d22119f12),
+![phython](https://github.com/user-attachments/assets/0ebd2fa1-df40-494f-adc1-34fb340bfbd2)
 
 - **Languages**: Python , JavaScript, HTML/CSS, etc.
 - **Technologies**: React, Node.js, Tailwindcss, etc.
