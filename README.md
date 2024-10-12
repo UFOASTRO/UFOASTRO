@@ -58,3 +58,4 @@ GitHub: [**UFOASTRO**](https://github.com/UFOASTRO)
 
 ---
 Thank you 👾
+![snake gif](https://github.com/UFOASTRO/UFOASTRO/blob/output/github-contribution-grid-snake.gif)
