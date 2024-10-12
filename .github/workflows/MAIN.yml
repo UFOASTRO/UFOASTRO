@@ -34,7 +34,9 @@ jobs:
 
       # Show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
-
+      # Example of setting an output
+      - name: Set custom output
+        run: echo "custom_output=some_value" >> $GITHUB_ENV
       # Push the changes
       - name: Push changes
         uses: ad-m/github-push-action@master
@@ -44,7 +46,7 @@ jobs:
           force: true
 
       # Generate SVG only
-      - uses: Platane/snk/svg-only@v3
+      - uses: actions/checkout@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
