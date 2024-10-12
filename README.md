@@ -1,7 +1,11 @@
-![Mastermind, Pixel Jeff](https://github.com/user-attachments/assets/a2fee120-e94f-4c25-a367-ac3bfa3b631f)
+![Masthead](https://github.com/user-attachments/assets/a2fee120-e94f-4c25-a367-ac3bfa3b631f)
+
 <div align="center">
+ 
  # 🌌Welcome to My GitHub Profile!
+
 </div>
+
 ---
 ## 🚀 About Me
 
