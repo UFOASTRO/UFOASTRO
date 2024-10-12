@@ -18,7 +18,8 @@ A collaborative project developed for a web development competition, this game l
 - **[Workingonmyself.com](#)**: The biggest project yet is not a website but my life ☮🕊
 
 ## ⚙️ Skills
-![phython](https://github.com/user-attachments/assets/0ebd2fa1-df40-494f-adc1-34fb340bfbd2), ![javascript](https://github.com/user-attachments/assets/1219d2a5-674b-46b7-b0d9-b9d5bce7a670)
+![phython](https://github.com/user-attachments/assets/0ebd2fa1-df40-494f-adc1-34fb340bfbd2), ![javascript](https://github.com/user-attachments/assets/1219d2a5-674b-46b7-b0d9-b9d5bce7a670)![js](https://github.com/user-attachments/assets/4381736e-f2bf-421c-9f63-2cc5fb36cd81)
+
 
 
 - **Languages**: Python , JavaScript, HTML/CSS, etc.
