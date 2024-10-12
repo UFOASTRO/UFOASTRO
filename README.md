@@ -57,7 +57,9 @@ GitHub: [**UFOASTRO**](https://github.com/UFOASTRO)
 - Currently learning [Javascript, tailwindcss]. 📚✨
 
 ---
-Thank you 👾
+
 ## Watch snake eating my github contributions 
  
 ![snake_gif](https://github.com/UFOASTRO/UFOASTRO/blob/output/github-snake-dark.svg)
+
+# Thank you 👾
