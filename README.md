@@ -19,6 +19,9 @@ A collaborative project developed for a web development competition, this game l
 
 ## ⚙️ Skills
 
+- **Languages**: JavaScript, HTML/CSS, etc.
+- **Technologies**: Node.js, Tailwindcss, etc.
+- **Tools**: Git, VS Code, Figma, Canva etc.
 <p align="center">
   <!-- Front-End -->
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -28,7 +31,6 @@ A collaborative project developed for a web development competition, this game l
   <!-- Back-End & Databases -->
   <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 
-  
   <!-- Other Tools -->
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -36,11 +38,6 @@ A collaborative project developed for a web development competition, this game l
   <img src="https://img.shields.io/badge/Figma-%23F05033.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Canva-%23008ACC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
-
-
-- **Languages**: Python , JavaScript, HTML/CSS, etc.
-- **Technologies**: React, Node.js, Tailwindcss, etc.
-- **Tools**: Git, VS Code, Figma, Canva etc.
 
 ## 📫 Connect with Me
 
