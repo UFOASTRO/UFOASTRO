@@ -1,44 +1,28 @@
-name: Generate Snake
+name: Generate Snake Game
 
 on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
   schedule:
-    # Runs every 6 hours
-    - cron: "0 */6 * * *"
-  workflow_dispatch:  # Allows manual triggering from the Actions tab
+    - cron: '0 0 * * *'  # Runs every day at midnight UTC
 
 jobs:
-  build:
-    runs-on: ubuntu-latest  # Specifies the runner
+  generate:
+    runs-on: ubuntu-latest
 
     steps:
-      # Checks out the repository so the job can access it
-      - uses: actions/checkout@v2
+    - name: Checkout repository
+      uses: actions/checkout@v2
 
-      # Generates the snake
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: UFOASTRO
-          # These lines generate the files on a branch called "output"
-          # This keeps the main branch from cluttering up
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      # Show the status of the build for debugging purposes
-      - run: git status
-
-      # Push the changes to the output branch
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output  # Changed to "output" as per your setup
-          force: true
-
-      # Deploy to GitHub Pages
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output  # The branch where the output files are pushed
-          build_dir: dist  # Directory containing the generated files
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Generate snake game
+      uses: Platane/snk@v3
+      with:
+        github_user_name: ${{ github.repository_owner }}
+        outputs: |
+          dist/github-snake.svg
+          dist/github-snake-dark.svg?palette=github-dark
+          dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
