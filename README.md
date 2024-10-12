@@ -19,13 +19,13 @@ A collaborative project developed for a web development competition, this game l
 
 ## ⚙️ Skills
 ![phython](https://github.com/user-attachments/assets/0ebd2fa1-df40-494f-adc1-34fb340bfbd2), ![javascript](https://github.com/user-attachments/assets/1219d2a5-674b-46b7-b0d9-b9d5bce7a670)![css-3 (1)](https://github.com/user-attachments/assets/b622fcb6-181d-4ee5-b0ec-8caa3a800003)![html-5](https://github.com/user-attachments/assets/5b25e0c3-0d34-49ea-b97a-abb948025345)
-
+<div align="center">
 ![github (1)](https://github.com/user-attachments/assets/1858904e-1d0a-45a8-8a78-349c67bb753e) &nbsp; &nbsp; 
 ![social (1)](https://github.com/user-attachments/assets/bfd9dbdf-5965-4ce7-98fd-b014f471e5a2) &nbsp; &nbsp; 
 ![figma](https://github.com/user-attachments/assets/63936328-f459-4041-9035-5fbd7907d4f7) &nbsp; &nbsp; 
 ![palette](https://github.com/user-attachments/assets/94a20295-9004-48f9-80c2-4f1188b0593d) &nbsp; &nbsp; 
 ![logo](https://github.com/user-attachments/assets/3a4d7db5-7b48-4e36-84e2-f129d98771ba)
-
+</div>
 
 
 - **Languages**: Python , JavaScript, HTML/CSS, etc.
