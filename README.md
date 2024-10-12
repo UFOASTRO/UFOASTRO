@@ -79,8 +79,8 @@ GitHub: [**UFOASTRO**](https://github.com/UFOASTRO)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UFOASTRO&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![](https://visitcount.itsvg.in/api?id=UFOASTRO&icon=8&color=5)
 </div>
-
 
 ---
 ## Watch snake eating my github contributions 
