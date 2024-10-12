@@ -12,7 +12,7 @@
 ## 🚀 About Me
 
 Hello! I'm **ASTRO🌠** a passionate Aspiring Fullstack developer with a keen interest in web development, data science, and AI. 
-Passionate about my passions and #️⃣1️⃣GOD 🙏
+Passionate about my passions and **GOD🙏**
 
 </div>
 
