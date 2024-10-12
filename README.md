@@ -1,5 +1,4 @@
 ![Mastermind, Pixel Jeff](https://github.com/user-attachments/assets/a2fee120-e94f-4c25-a367-ac3bfa3b631f)
-![Galaxy Far Far Away, Pixel Jeff](https://github.com/user-attachments/assets/6994865b-1d16-4a23-bcc9-39bc7afe12e0)
 
 # 🌌Welcome to My GitHub Profile!
 
