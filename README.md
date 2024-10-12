@@ -18,9 +18,13 @@ A collaborative project developed for a web development competition, this game l
 - **[Workingonmyself.com](#)**: The biggest project yet is not a website but my life ☮🕊
 
 ## ⚙️ Skills
-![phython](https://github.com/user-attachments/assets/0ebd2fa1-df40-494f-adc1-34fb340bfbd2), ![javascript](https://github.com/user-attachments/assets/1219d2a5-674b-46b7-b0d9-b9d5bce7a670)![js](https://github.com/user-attachments/assets/4381736e-f2bf-421c-9f63-2cc5fb36cd81)![css-3 (1)](https://github.com/user-attachments/assets/b622fcb6-181d-4ee5-b0ec-8caa3a800003)
+![phython](https://github.com/user-attachments/assets/0ebd2fa1-df40-494f-adc1-34fb340bfbd2), ![javascript](https://github.com/user-attachments/assets/1219d2a5-674b-46b7-b0d9-b9d5bce7a670)![css-3 (1)](https://github.com/user-attachments/assets/b622fcb6-181d-4ee5-b0ec-8caa3a800003)![html-5](https://github.com/user-attachments/assets/5b25e0c3-0d34-49ea-b97a-abb948025345)
 
-
+![github](https://github.com/user-attachments/assets/d796de43-d7c9-44d0-b1f8-0543076a3c64)
+![social](https://github.com/user-attachments/assets/4fd48772-cc7b-448b-bae3-e6e6d37b0a80)
+![figma](https://github.com/user-attachments/assets/63936328-f459-4041-9035-5fbd7907d4f7)
+![palette](https://github.com/user-attachments/assets/94a20295-9004-48f9-80c2-4f1188b0593d)
+![logo](https://github.com/user-attachments/assets/3a4d7db5-7b48-4e36-84e2-f129d98771ba)
 
 
 
@@ -31,7 +35,8 @@ A collaborative project developed for a web development competition, this game l
 ## 📫 Connect with Me
 
 Feel free to reach out:
-- 👨‍💻DISCORD SERVER: [**DEV JOURNEY**](https://discord.gg/d8y5qD4uA2)
+- :![communication](https://github.com/user-attachments/assets/99bfe483-3e30-44b9-86c8-f35a6bc4cc03)
+ [**DEV JOURNEY**](https://discord.gg/d8y5qD4uA2)
 - 🌐 GitHub: [**UFOASTRO**](https://github.com/UFOASTRO)
 ## ☄Fun Facts
 
