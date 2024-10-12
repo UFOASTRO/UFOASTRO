@@ -1,4 +1,4 @@
-![Mastermind, Pixel Jeff](https://github.com/user-attachments/assets/a2fee120-e94f-4c25-a367-ac3bfa3b631f){.image25percent}
+![Mastermind, Pixel Jeff](https://github.com/user-attachments/assets/a2fee120-e94f-4c25-a367-ac3bfa3b631f)
 
 # 🌌Welcome to My GitHub Profile!
 
@@ -18,8 +18,9 @@ A collaborative project developed for a web development competition, this game l
 - **[Workingonmyself.com](#)**: The biggest project yet is not a website but my life ☮🕊
 
 ## ⚙️ Skills
+![Cornmanthe3rd-Plex-Other-python 512](https://github.com/user-attachments/assets/7debd590-a264-4ba1-8365-556d22119f12),
 
-- **Languages**: Python, JavaScript, HTML/CSS, etc.
+- **Languages**: Python , JavaScript, HTML/CSS, etc.
 - **Technologies**: React, Node.js, Tailwindcss, etc.
 - **Tools**: Git, VS Code, Figma, Canva etc.
 
