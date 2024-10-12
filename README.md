@@ -65,8 +65,8 @@ GitHub: [**UFOASTRO**](https://github.com/UFOASTRO)
 ---
 ## ☄Fun Facts
 
-- I’m fascinated by [technology trends, open-source contributions, Outer Space , Artificial intelligence ].
-- In my free time, I enjoy [Playing games, building webapps, Networking with other devs and makin new friends ].
+- I’m fascinated by [Technology trends, Open-source contributions, Outer Space, Artificial-Intelligence[AI]].
+- In my free time, I enjoy [Playing games 🎮, Building WebApps🐱‍🐉, Watching Anime 🎌, Designing🎨, Listening to Music🎧, Networking with other devs and making new friends 👋].
 - Currently learning [Javascript, tailwindcss]. 📚✨
 
 ---
@@ -89,4 +89,5 @@ GitHub: [**UFOASTRO**](https://github.com/UFOASTRO)
 
 ---
 # Thank you 👾
-README INSPO [**MILES-SPIDEE**](https://github.com/miles-spidee/miles-spidee/blob/main/README.md)
+README INSPO [**MILES-SPIDEE🕸**](https://github.com/miles-spidee/miles-spidee/blob/main/README.md)
+<!-- Thank you Miles🕸 -->
