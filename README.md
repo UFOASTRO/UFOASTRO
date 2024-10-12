@@ -45,7 +45,7 @@ A collaborative project developed for a web development competition, this game l
 ## 📫 Connect with Me
 
 Feel free to reach out:
--![communication](https://github.com/user-attachments/assets/99bfe483-3e30-44b9-86c8-f35a6bc4cc03)
+- DISCORD:![communication](https://github.com/user-attachments/assets/99bfe483-3e30-44b9-86c8-f35a6bc4cc03)
  [**DEV JOURNEY**](https://discord.gg/d8y5qD4uA2)
 - 🌐 GitHub: [**UFOASTRO**](https://github.com/UFOASTRO)
 ## ☄Fun Facts
