@@ -53,6 +53,8 @@ Feel free to reach out:
  [**DEV JOURNEY**](https://discord.gg/d8y5qD4uA2)
 - ![icons8-github-24](https://github.com/user-attachments/assets/bd2979db-5048-404c-8262-f2b59bcf8f97)
 GitHub: [**UFOASTRO**](https://github.com/UFOASTRO)
+
+---
 ## ☄Fun Facts
 
 - I’m fascinated by [technology trends, open-source contributions, Outer Space , Artificial intelligence ].
