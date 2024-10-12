@@ -47,7 +47,8 @@ A collaborative project developed for a web development competition, this game l
 Feel free to reach out:
 - ![communication](https://github.com/user-attachments/assets/99bfe483-3e30-44b9-86c8-f35a6bc4cc03) DISCORD:
  [**DEV JOURNEY**](https://discord.gg/d8y5qD4uA2)
-- ![icons8-github-16](https://github.com/user-attachments/assets/daf2f3c3-e769-47e6-80ff-8aa930fd77a6)GitHub: [**UFOASTRO**](https://github.com/UFOASTRO)
+- ![icons8-github-24](https://github.com/user-attachments/assets/bd2979db-5048-404c-8262-f2b59bcf8f97)
+GitHub: [**UFOASTRO**](https://github.com/UFOASTRO)
 ## ☄Fun Facts
 
 - I’m fascinated by [technology trends, open-source contributions, Outer Space , Artificial intelligence ].
