@@ -9,7 +9,7 @@
 ---
 <div align="center">
 
-## 🚀 About Me
+## 🚀 About Me [**ASTRO**]
 
 Hello! I'm **ASTRO🌠** a passionate Aspiring Fullstack developer with a keen interest in web development, data science, and AI. 
 Passionate about my passions and **GOD🙏**
