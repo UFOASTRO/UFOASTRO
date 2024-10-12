@@ -89,4 +89,4 @@ GitHub: [**UFOASTRO**](https://github.com/UFOASTRO)
 
 ---
 # Thank you 👾
-README INSPO [**MILES**](https://discord.gg/d8y5qD4uA2](https://github.com/miles-spidee/miles-spidee/blob/main/README.md))
+README INSPO [**MILES**](https://github.com/miles-spidee/miles-spidee/blob/main/README.md)
