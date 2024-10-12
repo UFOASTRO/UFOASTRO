@@ -1,3 +1,4 @@
+![Mastermind, Pixel Jeff](https://github.com/user-attachments/assets/a2fee120-e94f-4c25-a367-ac3bfa3b631f)
 
 # 🌌Welcome to My GitHub Profile!
 
