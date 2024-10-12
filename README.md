@@ -12,6 +12,7 @@
 Hello! I'm **ASTRO🌠** a passionate Aspiring Fullstack developer with a keen interest in web development, data science, and AI. 
 Passionate about my passions and #️⃣1️⃣GOD 🙏
 
+---
 ## 🛠️ My Projects
 
 Here are a few of my favorite projects:
@@ -21,6 +22,7 @@ Here are a few of my favorite projects:
 A collaborative project developed for a web development competition, this game library showcases a collection of engaging games designed for web browsers. The project highlights teamwork and creativity, combining our diverse skills to deliver a user-friendly and interactive gaming experience.
 - **[Workingonmyself.com](#)**: The biggest project yet is not a website but my life ☮🕊
 
+---
 ## ⚙️ Skills
 
 - **Languages**: JavaScript, HTML/CSS, etc.
@@ -43,6 +45,7 @@ A collaborative project developed for a web development competition, this game l
   <img src="https://img.shields.io/badge/Canva-%23008ACC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
+---
 ## 📫 Connect with Me
 
 Feel free to reach out:
@@ -74,4 +77,5 @@ GitHub: [**UFOASTRO**](https://github.com/UFOASTRO)
  
 ![snake_gif](https://github.com/UFOASTRO/UFOASTRO/blob/output/github-snake-dark.svg)
 
+---
 # Thank you 👾
