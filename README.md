@@ -34,6 +34,8 @@ A collaborative project developed for a web development competition, this game l
 - **Languages**: JavaScript, HTML/CSS, etc.
 - **Technologies**: Node.js, Tailwindcss, etc.
 - **Tools**: Git, VS Code, Figma, Canva etc.
+
+
 <p align="center">
   <!-- Front-End -->
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
