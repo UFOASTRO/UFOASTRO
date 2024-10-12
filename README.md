@@ -1,7 +1,8 @@
 ![Mastermind, Pixel Jeff](https://github.com/user-attachments/assets/a2fee120-e94f-4c25-a367-ac3bfa3b631f)
 <div align="center">
- #🌌Welcome to My GitHub Profile!
+ # 🌌Welcome to My GitHub Profile!
 </div>
+---
 ## 🚀 About Me
 
 Hello! I'm **ASTRO🌠** a passionate Aspiring Fullstack developer with a keen interest in web development, data science, and AI. 
