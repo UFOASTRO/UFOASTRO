@@ -9,8 +9,7 @@
 ---
 <div align="center">
 
-## ![rocket](https://github.com/user-attachments/assets/fc8215ce-e36c-48f1-8c65-e4273652bbb6)
-About Me [**ASTRO**]
+## 🚀About Me [**ASTRO**]
 
 Hello! I'm **ASTRO🌠** a passionate Aspiring Fullstack developer with a keen interest in web development, data science, and AI. 
 Passionate about my passions and **GOD🙏**
