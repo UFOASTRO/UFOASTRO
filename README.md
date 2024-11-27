@@ -67,7 +67,7 @@ GitHub: [**UFOASTRO**](https://github.com/UFOASTRO)
 
 - I’m fascinated by [Technology trends, Open-source contributions, Outer Space, Artificial-Intelligence[AI]].
 - In my free time, I enjoy [Playing games 🎮, Building WebApps🐱‍🐉, Watching Anime 🎌, Designing🎨, Listening to Music🎧, Networking with other devs and making new friends 👋].
-- Currently learning [Javascript, tailwindcss]. 📚✨
+- Currently learning [Javascript,tailwindcss, React]. 📚✨
 
 ---
 ## 📊 **GitHub Stats**
