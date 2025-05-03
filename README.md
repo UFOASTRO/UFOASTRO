@@ -1,5 +1,7 @@
 ![Masthead](https://github.com/user-attachments/assets/a2fee120-e94f-4c25-a367-ac3bfa3b631f)
 
+AI/ML/ENGINEERING ENTHUSIAST ![tony stark](https://github.com/user-attachments/assets/cbea6331-65b7-4dd2-ae82-7b7a975c41f8)
+
 <div align="center">
  
  # 🌌Welcome to My GitHub Profile!
@@ -10,7 +12,6 @@
 <div align="center">
 
 ## 🚀About Me [**ASTRO**]
-
 Hello! I'm **Bello Oluwanifemi🌠** a passionate Aspiring Fullstack developer with a keen interest in web development, data science, and AI. 
 Passionate about my passions and **GOD🙏**
 
@@ -22,6 +23,7 @@ Passionate about my passions and **GOD🙏**
 ## 🛠️ My Projects
 
 Here are a few of my favorite projects:
+
 
 - **[RESTURANT WEBSITE](https://jays-burger-project.vercel.app/)**: A Resturant website fully built and designed by me, including all the logos, BUSINESS NAME, fonts and images sources 
 - **[GAMETROVE](https://gametrove.vercel.app/)**: Game Library Project
