@@ -1,6 +1,6 @@
 ![Masthead](https://github.com/user-attachments/assets/a2fee120-e94f-4c25-a367-ac3bfa3b631f)
 
-AI/ML/ENGINEERING ENTHUSIAST ![tony stark](https://github.com/user-attachments/assets/cbea6331-65b7-4dd2-ae82-7b7a975c41f8)
+AI/ML/ENGINEERING ENTHUSIAST
 
 <div align="center">
  
@@ -22,20 +22,21 @@ Passionate about my passions and **GOD🙏**
 ---
 ## 🛠️ My Projects
 
-Here are a few of my favorite projects:
+Here are a few of my recent projects:
 
 
-- **[RESTURANT WEBSITE](https://jays-burger-project.vercel.app/)**: A Resturant website fully built and designed by me, including all the logos, BUSINESS NAME, fonts and images sources 
-- **[GAMETROVE](https://gametrove.vercel.app/)**: Game Library Project
-A collaborative project developed for a web development competition, this game library showcases a collection of engaging games designed for web browsers. The project highlights teamwork and creativity, combining our diverse skills to deliver a user-friendly and interactive gaming experience.
-- **[Workingonmyself.com](#)**: The biggest project yet is not a website but my life ☮🕊
+- **[Swiftly](https://swiftly-puce.vercel.app/)**: An E commerce webapp that features a extensible list of products; with prices,product details add to cart functionalities , built with HTML, CSS, AND Javascript only;
+
+ - **[Show Website](https://shoe-store-peach-xi.vercel.app/)**: A shoe store web concept implementing cool features like 3D model web rendering and on scroll animations on the page with inspration gotten from a wix template 
+
+<! -- - **[](#)**: The biggest project yet is not a website but my life ☮🕊 -->
 
 ---
 ## ⚙️ Skills
 
 - **Languages**: JavaScript, HTML/CSS, etc.
-- **Technologies**: Node.js, Tailwindcss, etc.
-- **Tools**: Git, VS Code, Figma, Canva etc.
+- **Technologies**: Node.js, TailwindCSS, etc.
+- **Tools**: Git, VS Code, Figma, Canva, etc.
 
 
 <p align="center">
