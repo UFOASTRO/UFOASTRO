@@ -1,6 +1,6 @@
 ![Masthead](https://github.com/user-attachments/assets/a2fee120-e94f-4c25-a367-ac3bfa3b631f)
 
-_**AI/ML ENGINEERING ENTHUSIAST**_ ⚙️
+_**⚙️AI/ML ENGINEERING ENTHUSIAST**_
 
 <div align="center">
  
